@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Trending = (props) => {
   
 
-  
+  /*details*/ 
 
   return (
     <div className="container bg-dark">
